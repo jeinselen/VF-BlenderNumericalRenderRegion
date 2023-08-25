@@ -6,8 +6,8 @@ bl_info = {
 	"location": "Rendertab > Output Panel > Subpanel",
 	"description": "Adds Blender's native numerical render region settings to the render output tab",
 	"warning": "inexperienced developer, use at your own risk",
-	"wiki_url": "",
-	"tracker_url": "",
+	"doc_url": "https://github.com/jeinselenVF/VF-BlenderNumericalRenderRegion",
+	"tracker_url": "https://github.com/jeinselenVF/VF-BlenderNumericalRenderRegion/issues",
 	"category": "Render"}
 
 # Based on the following resources:
