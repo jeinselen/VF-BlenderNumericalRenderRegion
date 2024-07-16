@@ -1,5 +1,7 @@
 # VF Numerical Render Region
 
+This add-on was designed for Blender version 2.8-4.1 (though not all previous versions may be fully supported). For Blender 4.2 and onwards, [please see the new Render Kit extension](https://github.com/jeinselen/Blender-RenderKit).
+
 Adds numerical input fields for more precise control over Blender's Render Region.
 
 ![screenshot of the Blender Render Settings interface with the add-on installed](images/screenshot.png)
